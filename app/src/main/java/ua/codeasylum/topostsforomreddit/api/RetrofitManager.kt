@@ -1,10 +1,8 @@
 package ua.codeasylum.topostsforomreddit.api
 
-import com.google.gson.Gson
+import com.google.gson.GsonBuilder
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
-import com.google.gson.GsonBuilder
-
 
 
 const val BASE_URL = "https://www.reddit.com/"
@@ -15,7 +13,7 @@ const val ERR_NULL = "some wrong in data class or server"
 object RetrofitManager {
     private var retrofitApi: RetrofitApi? = null
 
-   fun getClient(): RetrofitApi? {
+    fun getClient(): RetrofitApi? {
 
 
         if (retrofitApi == null) {

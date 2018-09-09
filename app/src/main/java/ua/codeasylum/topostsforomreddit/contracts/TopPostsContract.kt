@@ -6,7 +6,7 @@ interface TopPostsContract {
 
     interface View : BaseContract.View {
         fun openSinglePost(url: String)
-        fun onInsertNewData(startPosition : Int, count : Int)
+        fun onInsertNewData(startPosition: Int, count: Int)
         fun onInitPostRecyclerAdapter(postsArrayList: ArrayList<TopPost>)
         fun hidePaginationProgress()
         fun showPaginationProgress()

@@ -2,9 +2,9 @@ package ua.codeasylum.topostsforomreddit.views
 
 import android.content.Context
 import android.net.Uri
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.customtabs.CustomTabsIntent
+import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
 import android.widget.Toast

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">YalantisTestTask</string>
+    <string name="app_name">TopPostsFromReddit</string>
     <string name="comments_less_thousand">%1$s Comments</string>
     <string name="comments_more_thousand">%1$sk Comments</string>
     <string name="rating">%sk</string>

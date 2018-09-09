@@ -9,7 +9,6 @@ import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.item_post.view.*
 import ua.codeasylum.topostsforomreddit.R
 import ua.codeasylum.topostsforomreddit.models.TopPost
-import ua.codeasylum.topostsforomreddit.models.Top
 import java.text.DecimalFormat
 import java.util.*
 
