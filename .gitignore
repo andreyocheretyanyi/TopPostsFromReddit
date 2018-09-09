@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.idea/misc.xml
+.idea/workspace.xml___jb_tmp___
+hs_err_pid9056.log
+hs_err_pid384.log
+.idea/assetWizardSettings.xml
+/.idea
