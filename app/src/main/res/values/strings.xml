@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YalantisTestTask</string>
+    <string name="comments_less_thousand">%1$s Comments</string>
+    <string name="comments_more_thousand">%1$sk Comments</string>
+    <string name="rating">%sk</string>
+    <string name="author_and_time">posted by %1$s %2$d hours ago</string>
+    <string name="main_title">Top Posts From Reddit</string>
+</resources>
